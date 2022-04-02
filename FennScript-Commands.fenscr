@@ -24,3 +24,6 @@
 /CustomComm-Swift(Command)
 /CustomComm-Batch(Command)
 /CustomComm-md(Command)
+
+(char.cos.url="url"
+(char.cos.file=;OpenFil(FileName)
