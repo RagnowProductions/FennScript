@@ -27,3 +27,8 @@
 
 (char.cos.url="url"
 (char.cos.file=;OpenFil(FileName)
+
+&revert.page(browser, type[errortype])
+&revert.browser(page, type[errortype])
+&revert.app(appname, type[errortype])
+&revert.os(host, type[errortype])
