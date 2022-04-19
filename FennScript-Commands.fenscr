@@ -32,3 +32,9 @@
 &revert.browser(page, type[errortype])
 &revert.app(appname, type[errortype])
 &revert.os(host, type[errortype])
+
+*offload.TOGGLE(true/false)
+*offload.app(appname, true/false)
+
+%volume.change(volumepercent)
+%volume.set(volumepercent)
